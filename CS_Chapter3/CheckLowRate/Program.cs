@@ -8,7 +8,7 @@ namespace CheckLowRate
     class Program
     {
         static void Main(string[] args)
-        {
+        { if ( NotFiniteNumberException < $5,65 )
         }
     }
 }
